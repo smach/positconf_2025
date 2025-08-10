@@ -1,0 +1,133 @@
+---
+title: "What Can YOU Build?"
+subtitle: "Using Your Skills Data Skills for Public Service\nhttps://smach.github.com/positconf_2025"
+author: "Sharon Machlis"
+format: 
+  revealjs:
+    theme: default
+    css: custom.css
+    embed-resources: true
+    echo: true
+    eval: true
+    multiplex: false
+    includes: 
+      in-header: custom-font.html
+execute:
+  cache: true
+  eval: true
+  echo: true
+editor: visual
+---
+
+::: {style="text-align: center;"}
+## 🎉No Meetings Needed! 🎉
+
+![](images/no-more-meetings-pam-beesly.gif){fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+![](images/challenge_accepted.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](images/PDFs_Imagen.jpg){fig-align="center"  fig-alt="Pile of papers with PDF labels on a table"}
+
+
+
+## Newsletter Archive Before
+
+![](images/google_drive.png)
+
+## Newsletter Archive After: Full text search
+
+![](images/saxonville_search.jpg)
+
+## Newsletter Archive After: GenAI chatbot
+
+![](images/saxonville_chatbot.png)
+
+## Tech Stack
+
+::: incremental
+-   LlamaParse for PDF to markdown (other options available)
+-   Lots of R 📦s: dplyr, stringr, data.table, DBI, ragnar, ellmer, shiny, shinychat, bslib, reactable & more
+-   LLMs to help me write the code!
+:::
+
+-------
+
+![](images/vote.jpg){fig-align="center"  fig-alt="Vote sign with arrow"}
+
+## 😭
+
+![](images/election_pdf.png)
+
+## Map {style="text-align: center;"}
+
+![](images/results_map.png){fig-align="center"}
+
+## Table {style="text-align: center;"}
+
+![](images/results_table.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](images/results_table2.png){fig-align="center"}
+
+## Tech Stack
+
+-   First blogdown, now Quarto
+-   Lots of R 📦s! Including leaflet, DT, gt, dplyr, data.table . . . .
+
+## Community Calendar
+
+![](images/calendar.png)
+
+## Tech Stack
+
+-   rvest and tidyrss
+-   reactable
+-   Quarto
+-   Linux cron job
+
+------------------------------------------------------------------------
+
+![](images/chatcal1.png)
+
+------------------------------------------------------------------------
+
+![](images/chatcal2.png)
+
+## Recyclebot
+
+![](images/recyclebot.png){width="95%"}
+
+------------------------------------------------------------------------
+
+## Farmers Market
+
+![](images/market.png)
+
+------------------------------------------------------------------------
+
+## Search Local Meeting Agendas & Minutes
+
+![](images/framingham_meetings.png)
+
+## Claude Helping Me Add a Chatbot 😅
+
+![](images/meeting_chatbot.png)
+
+## Links
+
+-   These slides: <https://smach.github.com/positconf_2025>
+-   Newsletter search: <https://apps.machlis.com/shiny/Saxonville>
+-   Election results: <https://www.district2framingham.com/posts/2021-11-02-sisitsky-elected-framingham-mayor/>
+-   Community calendar: <https://www.framinghamevents.com>
+-   My calendar w chatbot: <https://apps.machlis.com/shiny/mycal/>
+-   Recyclebot: <https://apps.machlis.com/shiny/recyclebot/>
+-   Farmers market: <https://apps.machlis.com/shiny/market626>
+-   Search local meeting agendas & minutes: <https://apps.machlis.com/shiny/framingham_meetings/>
+
+[Sharon Machlis]{.signature}

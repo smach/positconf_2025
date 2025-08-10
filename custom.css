@@ -1,0 +1,97 @@
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap';
+
+.reveal {
+  font-size: 28px;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+
+/* Title slide styling and other CSS below by Claude */
+
+/* Target the title slide elements Quarto creates */
+.reveal .slides section .title {
+  font-size: 3.2em !important;
+  font-weight: 700 !important;
+  background: linear-gradient(135deg, #2E86AB 0%, #A23B72 50%, #F18F01 100%);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradientShift 6s ease-in-out infinite;
+  text-align: center !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Gradient animation */
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Subtitle styling */
+.reveal .slides section .subtitle {
+  font-size: 1.6em !important;
+  color: #2E86AB !important;
+  font-weight: 400 !important;
+  text-align: center !important;
+  margin-bottom: 2em !important;
+  opacity: 0;
+  animation: fadeInUp 1.5s ease-out 0.5s forwards;
+}
+
+/* Author styling */
+.reveal .slides section .author {
+  font-size: 1.3em !important;
+  color: #666 !important;
+  text-align: center !important;
+  font-weight: 400 !important;
+  opacity: 0;
+  animation: fadeInUp 1.5s ease-out 1s forwards;
+}
+
+/* Fade in animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* First slide background enhancement */
+.reveal .slides > section:first-child {
+  background: radial-gradient(ellipse at center, #f8f9fa 0%, #e9ecef 100%) !important;
+}
+
+/* Fallback for browsers that don't support background-clip */
+@supports not (-webkit-background-clip: text) {
+  .reveal .slides section .title {
+    background: none !important;
+    color: #2E86AB !important;
+    -webkit-text-fill-color: unset !important;
+  }
+}
+
+/* Alternative approach - simpler version */
+.reveal h1 {
+  color: #2E86AB !important;
+  font-weight: 700 !important;
+  font-size: 3em !important;
+}
+
+.reveal .subtitle {
+  color: #A23B72 !important;
+  font-size: 1.5em !important;
+}
+
+
+.signature {
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 
+               'Bradley Hand ITC', cursive;
+  font-size: 1.8em;
+  color: #2c3e50;
+}
