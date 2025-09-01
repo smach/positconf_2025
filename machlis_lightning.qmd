@@ -29,6 +29,8 @@ editor: visual
 
 ![](images/challenge_accepted.png){fig-align="center"}
 
+# Help people search <br />and answer questions
+
 ------------------------------------------------------------------------
 
 ![](images/PDFs_Imagen.jpg){fig-align="center"  fig-alt="Pile of papers with PDF labels on a table"}
@@ -55,6 +57,19 @@ editor: visual
 -   LLMs to help me write the code!
 :::
 
+## Official Search Local Meeting Agendas & Minutes
+
+![](images/official_search.jpg)
+
+## Search Local Meeting Agendas & Minutes
+
+![](images/framingham_meetings.png)
+
+## Claude Helping Me Add a Chatbot 😅
+
+![](images/meeting_chatbot.png)
+
+
 -------
 
 ![](images/vote.jpg){fig-align="center"  fig-alt="Vote sign with arrow"}
@@ -79,6 +94,7 @@ editor: visual
 
 -   First blogdown, now Quarto
 -   Lots of R 📦s! Including leaflet, DT, gt, dplyr, data.table . . . .
+
 
 ## Community Calendar
 
@@ -111,13 +127,6 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## Search Local Meeting Agendas & Minutes
-
-![](images/framingham_meetings.png)
-
-## Claude Helping Me Add a Chatbot 😅
-
-![](images/meeting_chatbot.png)
 
 ## Links
 
