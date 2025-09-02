@@ -29,13 +29,19 @@ editor: visual
 
 ![](images/challenge_accepted.png){fig-align="center"}
 
-# Help people search <br />and answer questions
 
 ------------------------------------------------------------------------
 
-![](images/PDFs_Imagen.jpg){fig-align="center"  fig-alt="Pile of papers with PDF labels on a table"}
+[Common Themes]{style="font-size: 2.5em; color: #2E86AB; display: block; margin: 1em 0;"}
+
+[Help people search and answer questions]{.fragment style="font-size: 2em; color: #2E86AB; display: block; margin: 1em 0;"}
+
+[Make websites easier to use]{.fragment style="font-size: 2em; color: #2E86AB; display: block; margin: 1em 0;"}
 
 
+------------------------------------------------------------------------
+
+![](images/PDFs_Imagen.jpg){fig-align="center" fig-alt="Pile of papers with PDF labels on a table"}
 
 ## Newsletter Archive Before
 
@@ -69,10 +75,9 @@ editor: visual
 
 ![](images/meeting_chatbot.png)
 
+------------------------------------------------------------------------
 
--------
-
-![](images/vote.jpg){fig-align="center"  fig-alt="Vote sign with arrow"}
+![](images/vote.jpg){fig-align="center" fig-alt="Vote sign with arrow"}
 
 ## 😭
 
@@ -94,7 +99,6 @@ editor: visual
 
 -   First blogdown, now Quarto
 -   Lots of R 📦s! Including leaflet, DT, gt, dplyr, data.table . . . .
-
 
 ## Community Calendar
 
@@ -126,7 +130,6 @@ editor: visual
 ![](images/market.png)
 
 ------------------------------------------------------------------------
-
 
 ## Links
 
