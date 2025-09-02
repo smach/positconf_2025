@@ -130,10 +130,9 @@ editor: visual
 ![](images/market.png)
 
 ------------------------------------------------------------------------
+### More info: {{< qrcode https://github.com/smach/positconf_2025 >}}
 
-## Links
-
--   These slides: <https://smach.github.com/positconf_2025>
+-   These slides: <https://github.com/smach/positconf_2025>
 -   Newsletter search: <https://apps.machlis.com/shiny/Saxonville>
 -   Election results: <https://www.district2framingham.com/posts/2021-11-02-sisitsky-elected-framingham-mayor/>
 -   Community calendar: <https://www.framinghamevents.com>
