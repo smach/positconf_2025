@@ -29,7 +29,6 @@ editor: visual
 
 ![](images/challenge_accepted.png){fig-align="center"}
 
-
 ------------------------------------------------------------------------
 
 [Common Themes]{style="font-size: 2.5em; color: #2E86AB; display: block; margin: 1em 0;"}
@@ -37,7 +36,6 @@ editor: visual
 [Help people search and answer questions]{.fragment style="font-size: 2em; color: #2E86AB; display: block; margin: 1em 0;"}
 
 [Make websites easier to use]{.fragment style="font-size: 2em; color: #2E86AB; display: block; margin: 1em 0;"}
-
 
 ------------------------------------------------------------------------
 
@@ -111,32 +109,26 @@ editor: visual
 -   Quarto
 -   Linux cron job
 
-------------------------------------------------------------------------
-
-![](images/chatcal1.png)
-
-------------------------------------------------------------------------
-
-![](images/chatcal2.png)
-
 ## Recyclebot
 
 ![](images/recyclebot.png){width="95%"}
 
 ------------------------------------------------------------------------
 
+![](images/recyclebot_02.png){width="95%"}
+
 ## Farmers Market
 
 ![](images/market.png)
 
 ------------------------------------------------------------------------
+
 ### More info: {{< qrcode https://github.com/smach/positconf_2025 >}}
 
 -   These slides: <https://github.com/smach/positconf_2025>
 -   Newsletter search: <https://apps.machlis.com/shiny/Saxonville>
 -   Election results: <https://www.district2framingham.com/posts/2021-11-02-sisitsky-elected-framingham-mayor/>
 -   Community calendar: <https://www.framinghamevents.com>
--   My calendar w chatbot: <https://apps.machlis.com/shiny/mycal/>
 -   Recyclebot: <https://apps.machlis.com/shiny/recyclebot/>
 -   Farmers market: <https://apps.machlis.com/shiny/market626>
 -   Search local meeting agendas & minutes: <https://apps.machlis.com/shiny/framingham_meetings/>
